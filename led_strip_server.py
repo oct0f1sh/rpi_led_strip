@@ -62,4 +62,4 @@ def colorRun():
 
 # Main program logic follows:
 if __name__ == '__main__':
-        app.run('192.168.0.100')
+        app.run('192.168.0.104')
